@@ -16,7 +16,7 @@
     <Setting name="NCIP_Responder_URL" value="https://bsu-psb.alma.exlibrisgroup.com/view/NCIPServlet" type="string">
       <Description>This setting value is the address for the NCIP Responder URL. It is your Alma server,i.e., na01.alma.exlibrisgroup.com/view/NCIPServlet, na02.alma.exlibrisgroup.com/view/NCIPServlet.</Description>
     </Setting>
-    <Setting name="renewItem_from_uniqueAgency_value" value="01SUNY_XXX" type="string">
+    <Setting name="renewItem_from_uniqueAgency_value" value="01BSU.01BSU_INST" type="string">
       <Description>This is your institutional Alma Code.</Description>
     </Setting>
     <Setting name="ApplicationProfileType" value="ILL" type="string">
