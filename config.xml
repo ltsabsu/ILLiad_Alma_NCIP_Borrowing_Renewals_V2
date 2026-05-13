@@ -13,7 +13,7 @@
     <Setting name="FieldToUseForBarcode" value="" type="string">
       <Description>This setting determines what field you use to get the barcode from the ILLiad TN to send to Alma.  If blank, the Addon will use the TransactionNumber field.</Description>
     </Setting>  	
-    <Setting name="NCIP_Responder_URL" value="https://suny-xxx.alma.exlibrisgroup.com/view/NCIPServlet" type="string">
+    <Setting name="NCIP_Responder_URL" value="https://bsu-psb.alma.exlibrisgroup.com/view/NCIPServlet" type="string">
       <Description>This setting value is the address for the NCIP Responder URL. It is your Alma server,i.e., na01.alma.exlibrisgroup.com/view/NCIPServlet, na02.alma.exlibrisgroup.com/view/NCIPServlet.</Description>
     </Setting>
     <Setting name="renewItem_from_uniqueAgency_value" value="01SUNY_XXX" type="string">
